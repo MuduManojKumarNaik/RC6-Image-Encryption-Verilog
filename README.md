@@ -53,7 +53,7 @@ Simulation waveforms confirm correct encryption and decryption behavior for 128-
 ![Encryption Waveform](Image%20Encryption%20Waveform.png)
 
 ### Decryption Waveform
-![Decryption Waveform](Image%20Decryption%20Waveform.png)
+![Decryption Waveform](4_Output/image-decryption-waveform.png)
 
 ---
 
