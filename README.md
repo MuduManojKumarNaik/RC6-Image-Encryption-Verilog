@@ -50,8 +50,7 @@ The RC6 RTL design was functionally verified using a Verilog testbench.
 Simulation waveforms confirm correct encryption and decryption behavior for 128-bit data blocks.
 
 ### Encryption Waveform
-![Encryption Waveform](Image%20Encryption%20Waveform.png)
-
+![Encryption Waveform](4_Output/image-encryption-waveform.png)
 ### Decryption Waveform
 ![Decryption Waveform](4_Output/image-decryption-waveform.png)
 
